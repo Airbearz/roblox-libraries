@@ -1,12 +1,12 @@
 --[=[
-	Test class
+    Test class
 
-	```lua
-	local myTestClass = TestClass.new(1, 2)
+    ```lua
+    local myTestClass = TestClass.new(1, 2)
     print(myTestClass:sum()) -- 3
-	```
+    ```
 
-	@class TestClass
+    @class TestClass
 ]=]
 
 local TestClass = {}
