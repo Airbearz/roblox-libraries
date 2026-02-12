@@ -1,1 +1,4 @@
 build
+modules/*/Packages
+modules/*/wally.lock
+sourcemap.json

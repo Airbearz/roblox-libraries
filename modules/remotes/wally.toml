@@ -1,0 +1,12 @@
+[package]
+name = "airbearz/remotes"
+description = "Wrapper for RemoteEvents and RemoteFunctions"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+include = ["src", "default.project.json"]
+
+[dependencies]
+Janitor = "howmanysmall/janitor@1.18.3"
+Promise = "howmanysmall/typed-promise@4.0.6"
+WaitFor = "sleitnick/wait-for@1.0.0"
