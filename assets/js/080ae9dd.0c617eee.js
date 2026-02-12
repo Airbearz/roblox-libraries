@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[900],{4410:r=>{r.exports=JSON.parse('{"sourceUrl":"https://github.com/Airbearz/roblox-libraries/blob/main","baseUrl":"/roblox-libraries/","classOrder":[],"apiCategories":[]}')}}]);
