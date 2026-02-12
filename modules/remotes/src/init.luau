@@ -5,8 +5,9 @@ local Promise = require(script.Parent.Promise)
 local WaitFor = require(script.Parent.WaitFor)
 
 --[=[
-	@class Remotes
-	Wrapper for RemoteEvents and RemoteFunctions
+Wrapper for RemoteEvents and RemoteFunctions
+
+@class Remotes
 ]=]
 
 local Remotes = {}
